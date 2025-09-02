@@ -1,2 +1,0 @@
-# MADLab
-CLG LAB CODES

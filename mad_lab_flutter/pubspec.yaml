@@ -1,0 +1,14 @@
+name: mad_lab_flutter
+description: A Flutter project for MAD Lab (Widgets, Layouts, Gestures)
+publish_to: "none"
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0  # for date formatting
+
+flutter:
+  uses-material-design: true
